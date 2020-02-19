@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>DOT photo App</Text>
+      <Text>JESSE</Text>
     </View>
   );
 }
